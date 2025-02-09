@@ -1,0 +1,10 @@
+holidays
+ipykernel
+ipython
+MarkupSafe
+matplotlib
+numpy
+pandas
+pytest
+scikit-learn
+scipy
